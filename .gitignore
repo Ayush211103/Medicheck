@@ -1,0 +1,11 @@
+# Node & Build Files
+node_modules/
+dist/
+build/
+
+# System Files
+.DS_Store
+
+# Env & Config
+.env
+.vscode/
