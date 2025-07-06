@@ -1,6 +1,6 @@
 # Node & Build Files
 node_modules/
-dist/
+# dist/
 build/
 
 # System Files
